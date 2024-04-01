@@ -1,3 +1,15 @@
+# shopping cart
+a shopping cart page using `javaScript` `React` `Mantine UI` `Tailwind` `Redux Toolkit`  
+
+features:.\
+  add items from products page to cart page.\
+  remove items from cart page
+  
+  
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
